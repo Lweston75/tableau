@@ -1,0 +1,9 @@
+Citibike data for year 2020
+
+During the year of 2020 CitiBike reported that a total of 336,802 rides had occurred. 
+Of the total 336,802 rides men made up more than double the amount of riders reported than women.  Men were reported to have taken 199,807 rides, and Women reported to have taken 84,798, with 52,197 unknown.
+For the year the most activity were during the months of June, July, August, September, and October.  Making up a total of 202,787 rides or 60.21% of all rides for the year.  October was the top month with 43,537 rides taken.
+
+The most popular time of day over the entire year has shown to be 6pm.  The most popular time of day during summer month (June, July, and August) is also 6pm.  Most likely due to riders taking advantage of the weather after working hours.  The most popular time of the day during winter months (December, January, and February) are 2 times the first being 7am and the second being 5pm,  which could be due to riders using the service to go to and from work.  
+Of the 10 most popular starting stations the top station Grove st PATH had 22,930 rides while the 10th most popular station JC Medical center had 10,795. While the starting station with the least amount of rides take was the JCBS depot with only 1 ride for the year. 
+
